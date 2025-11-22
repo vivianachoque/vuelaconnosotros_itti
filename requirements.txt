@@ -1,0 +1,25 @@
+# ============================================================================
+# DEPENDENCIAS PRINCIPALES
+# ============================================================================
+
+# Streamlit para la interfaz de usuario
+streamlit>=1.28.0
+
+# LangChain, LangGraph y OpenAI
+langchain>=0.1.0
+langchain-openai>=0.0.5
+langchain-core>=0.1.0
+langgraph>=0.0.20
+
+# Variables de entorno
+python-dotenv>=1.0.0
+
+# ============================================================================
+# NOTAS DE INSTALACIÓN
+# ============================================================================
+
+# Instalar todas las dependencias:
+# pip install -r requirements.txt
+#
+# Verificar instalación:
+# pip list | grep -E "streamlit|langchain|langgraph"
