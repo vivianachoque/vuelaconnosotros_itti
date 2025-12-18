@@ -24,8 +24,7 @@ python -m streamlit run bot.py
 
 ## Arquitectura Técnica
 
-**[Diagrama de Arquitectura](<img width="1290" height="921" alt="image" src="https://github.com/user-attachments/assets/ab9e3c9f-1c2b-40fb-adae-8c725ad16416" />
-)**
+![Diagrama de Arquitectura VuelaConNosotros](docs/screenshots/Diagrama%20de%20Arquitectura%20VuelaConNosotros.png)
    Diagrama de la arquitectura modularizada de VuelaConNosotros
 
 ### Componentes del Sistema
